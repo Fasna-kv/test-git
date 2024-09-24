@@ -1,1 +1,1 @@
-const fanu = 23;
+const fanu = 231;
